@@ -1,0 +1,989 @@
+{
+  "test_id": "VERSION_D",
+  "version": "1.0",
+  "total_questions": 60,
+  "time_limit_minutes": 60,
+  "sections": {
+    "verbal_reasoning": {
+      "questions": [
+        {
+          "id": "D_V01",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "easy",
+          "question": "Which word is most similar in meaning to COLD?",
+          "options": [
+            "Hot",
+            "Chilly",
+            "Warm",
+            "Burning"
+          ],
+          "correct_answer": "Chilly",
+          "explanation": "Chilly means somewhat cold, synonymous with cold.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_V02",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "easy",
+          "question": "Which word is most opposite in meaning to WIDE?",
+          "options": [
+            "Narrow",
+            "Broad",
+            "Thick",
+            "Large"
+          ],
+          "correct_answer": "Narrow",
+          "explanation": "Narrow is the opposite of wide.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_V03",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "easy",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Dog",
+            "Cat",
+            "Horse",
+            "Rose"
+          ],
+          "correct_answer": "Rose",
+          "explanation": "Rose is a plant; the others are animals.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_V04",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Leaf is to Tree as Petal is to ___?",
+          "options": [
+            "Flower",
+            "Stem",
+            "Root",
+            "Soil"
+          ],
+          "correct_answer": "Flower",
+          "explanation": "A leaf is part of a tree; a petal is part of a flower.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V05",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to RIGID?",
+          "options": [
+            "Stiff",
+            "Flexible",
+            "Soft",
+            "Bendable"
+          ],
+          "correct_answer": "Stiff",
+          "explanation": "Rigid means not flexible, synonymous with stiff.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V06",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to VICTORY?",
+          "options": [
+            "Defeat",
+            "Win",
+            "Success",
+            "Triumph"
+          ],
+          "correct_answer": "Defeat",
+          "explanation": "Victory means winning; defeat is losing.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V07",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Key is to Lock as Password is to ___?",
+          "options": [
+            "Account",
+            "Door",
+            "Computer",
+            "Safe"
+          ],
+          "correct_answer": "Account",
+          "explanation": "A key opens a lock; a password opens/accesses an account.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V08",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Thunder",
+            "Lightning",
+            "Rain",
+            "Mountain"
+          ],
+          "correct_answer": "Mountain",
+          "explanation": "Mountain is a landform; the others are weather phenomena.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V09",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to WEIRD?",
+          "options": [
+            "Strange",
+            "Normal",
+            "Typical",
+            "Common"
+          ],
+          "correct_answer": "Strange",
+          "explanation": "Weird means unusual or strange.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_V10",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to CHAOS?",
+          "options": [
+            "Order",
+            "Disorder",
+            "Confusion",
+            "Mess"
+          ],
+          "correct_answer": "Order",
+          "explanation": "Chaos means disorder; order is the opposite.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V11",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Author is to Novel as Composer is to ___?",
+          "options": [
+            "Symphony",
+            "Painting",
+            "Poem",
+            "Sculpture"
+          ],
+          "correct_answer": "Symphony",
+          "explanation": "An author writes a novel; a composer writes a symphony.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_V12",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to AUSTERE?",
+          "options": [
+            "Severe",
+            "Luxurious",
+            "Comfortable",
+            "Ornate"
+          ],
+          "correct_answer": "Severe",
+          "explanation": "Austere means severe or strict in manner, simple and unadorned.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_V13",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "hard",
+          "question": "Which word is most opposite in meaning to VERBOSE?",
+          "options": [
+            "Concise",
+            "Wordy",
+            "Lengthy",
+            "Detailed"
+          ],
+          "correct_answer": "Concise",
+          "explanation": "Verbose means using too many words; concise means brief and clear.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_V14",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Mythology",
+            "Biology",
+            "Geology",
+            "Zoology"
+          ],
+          "correct_answer": "Mythology",
+          "explanation": "Mythology is the study of myths; the others are natural sciences.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_V15",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to PENSIVE?",
+          "options": [
+            "Thoughtful",
+            "Carefree",
+            "Cheerful",
+            "Energetic"
+          ],
+          "correct_answer": "Thoughtful",
+          "explanation": "Pensive means engaged in deep or serious thought.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "numerical_reasoning": {
+      "questions": [
+        {
+          "id": "D_N01",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next in the sequence: 10, 20, 30, 40, ___?",
+          "options": [
+            "50",
+            "55",
+            "45",
+            "60"
+          ],
+          "correct_answer": "50",
+          "explanation": "The sequence increases by 10 each time: 10+10=20, 20+10=30, 30+10=40, 40+10=50.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_N02",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "easy",
+          "question": "What is 56 + 37?",
+          "options": [
+            "93",
+            "103",
+            "83",
+            "113"
+          ],
+          "correct_answer": "93",
+          "explanation": "56 + 37 = 93.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_N03",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "If 6 pens cost $12, how much does 1 pen cost?",
+          "options": [
+            "$2",
+            "$3",
+            "$1",
+            "$4"
+          ],
+          "correct_answer": "$2",
+          "explanation": "$12 divided by 6 pens = $2 per pen.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_N04",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 1, 3, 9, 27, ___?",
+          "options": [
+            "81",
+            "72",
+            "54",
+            "90"
+          ],
+          "correct_answer": "81",
+          "explanation": "Each number is multiplied by 3: 1\u00d73=3, 3\u00d73=9, 9\u00d73=27, 27\u00d73=81.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_N05",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 23 \u00d7 4?",
+          "options": [
+            "82",
+            "88",
+            "96",
+            "92"
+          ],
+          "correct_answer": "92",
+          "explanation": "23 \u00d7 4 = 92.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_N06",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A rectangle has an area of 48 and a length of 8. What is the width?",
+          "options": [
+            "4",
+            "5",
+            "7",
+            "6"
+          ],
+          "correct_answer": "6",
+          "explanation": "Area = length \u00d7 width. 48 = 8 \u00d7 width, so width = 48 \u00f7 8 = 6.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_N07",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 64, 32, 16, 8, ___?",
+          "options": [
+            "2",
+            "6",
+            "8",
+            "4"
+          ],
+          "correct_answer": "4",
+          "explanation": "Each number is divided by 2: 64\u00f72=32, 32\u00f72=16, 16\u00f72=8, 8\u00f72=4.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_N08",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 420 \u00f7 15?",
+          "options": [
+            "24",
+            "26",
+            "30",
+            "28"
+          ],
+          "correct_answer": "28",
+          "explanation": "420 \u00f7 15 = 28.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_N09",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a square has a perimeter of 36, what is the length of one side?",
+          "options": [
+            "6",
+            "8",
+            "12",
+            "9"
+          ],
+          "correct_answer": "9",
+          "explanation": "Square has 4 equal sides. Perimeter = 4 \u00d7 side, so 36 = 4 \u00d7 side, side = 9.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_N10",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 6, 12, 18, 24, ___?",
+          "options": [
+            "28",
+            "32",
+            "36",
+            "30"
+          ],
+          "correct_answer": "30",
+          "explanation": "Multiples of 6: 6\u00d71=6, 6\u00d72=12, 6\u00d73=18, 6\u00d74=24, 6\u00d75=30.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_N11",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 680 - 295?",
+          "options": [
+            "375",
+            "395",
+            "385",
+            "405"
+          ],
+          "correct_answer": "385",
+          "explanation": "680 - 295 = 385.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_N12",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A runner completes 10 miles in 80 minutes. What is their pace in minutes per mile?",
+          "options": [
+            "7",
+            "9",
+            "8",
+            "10"
+          ],
+          "correct_answer": "8",
+          "explanation": "Pace = time \u00f7 distance = 80 \u00f7 10 = 8 minutes per mile.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_N13",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 5, 11, 23, 47, ___?",
+          "options": [
+            "83",
+            "91",
+            "95",
+            "99"
+          ],
+          "correct_answer": "95",
+          "explanation": "Pattern: \u00d72+1. 5\u00d72+1=11, 11\u00d72+1=23, 23\u00d72+1=47, 47\u00d72+1=95.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_N14",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "If 60% of a number is 120, what is the number?",
+          "options": [
+            "180",
+            "220",
+            "200",
+            "240"
+          ],
+          "correct_answer": "200",
+          "explanation": "0.60 \u00d7 number = 120, so number = 120 \u00f7 0.60 = 200.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_N15",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 128, 64, 32, 16, 8, ___?",
+          "options": [
+            "2",
+            "6",
+            "4",
+            "8"
+          ],
+          "correct_answer": "4",
+          "explanation": "Each number is divided by 2: 128\u00f72=64, 64\u00f72=32, 32\u00f72=16, 16\u00f72=8, 8\u00f72=4.",
+          "time_estimate": 60
+        }
+      ]
+    },
+    "spatial_reasoning": {
+      "questions": [
+        {
+          "id": "D_S01",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "easy",
+          "question": "Which shape completes the pattern: Plus, Minus, Plus, Minus, Plus, ___?",
+          "options": [
+            "Plus",
+            "Divide",
+            "Times",
+            "Minus"
+          ],
+          "correct_answer": "Minus",
+          "explanation": "The pattern alternates between plus and minus.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_S02",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "How many sides does a heptagon have?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correct_answer": "7",
+          "explanation": "A heptagon has 7 sides by definition.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_S03",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "A square rotates 90 degrees clockwise. If the top side was RED, which side is now on top?",
+          "options": [
+            "Red",
+            "Right side",
+            "Left side",
+            "Bottom"
+          ],
+          "correct_answer": "Left side",
+          "explanation": "90\u00b0 clockwise rotation: top\u2192right, right\u2192bottom, bottom\u2192left, left\u2192top.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_S04",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "A right-pointing arrow (\u2192) is reflected across a vertical mirror. What direction does it point?",
+          "options": [
+            "Right (\u2192)",
+            "Down (\u2193)",
+            "Up (\u2191)",
+            "Left (\u2190)"
+          ],
+          "correct_answer": "Left (\u2190)",
+          "explanation": "Vertical mirror reflection reverses horizontal direction.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_S05",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A regular hexagon is divided into 6 equal triangles from its center. What is the angle at the center of each triangle?",
+          "options": [
+            "45\u00b0",
+            "90\u00b0",
+            "72\u00b0",
+            "60\u00b0"
+          ],
+          "correct_answer": "60\u00b0",
+          "explanation": "360\u00b0 \u00f7 6 triangles = 60\u00b0 per central angle.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S06",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "An equilateral triangle rotates 120 degrees. How does it appear?",
+          "options": [
+            "Identical to original",
+            "Upside down",
+            "Different orientation",
+            "Cannot determine"
+          ],
+          "correct_answer": "Identical to original",
+          "explanation": "Equilateral triangle has 120\u00b0 rotational symmetry (360\u00b0\u00f73=120\u00b0).",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S07",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Pattern: \u25cb \u25cf \u25cb\u25cb \u25cf\u25cf \u25cb\u25cb\u25cb. What comes next?",
+          "options": [
+            "\u25cf",
+            "\u25cf\u25cf",
+            "\u25cf\u25cf\u25cf",
+            "\u25cb\u25cb\u25cb\u25cb"
+          ],
+          "correct_answer": "\u25cf\u25cf\u25cf",
+          "explanation": "Pattern: 1 empty, 1 filled, 2 empty, 2 filled, 3 empty, [3 filled].",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S08",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A cylinder has 2 circular faces. How many edges does it have?",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "correct_answer": "2",
+          "explanation": "A cylinder has 2 circular edges where the circles meet the curved surface.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S09",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "A shape has both horizontal and vertical symmetry. Which could it be?",
+          "options": [
+            "Rectangle",
+            "Trapezoid",
+            "Right triangle",
+            "Circle"
+          ],
+          "correct_answer": "Circle",
+          "explanation": "A circle has infinite lines of symmetry including horizontal and vertical.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_S10",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "A regular pentagon rotates 72 degrees clockwise, then 72 degrees counter-clockwise. What is its orientation?",
+          "options": [
+            "Original position",
+            "144\u00b0 from original",
+            "72\u00b0 from original",
+            "180\u00b0 from original"
+          ],
+          "correct_answer": "Original position",
+          "explanation": "72\u00b0 clockwise then 72\u00b0 counter-clockwise cancel out: net rotation = 0\u00b0.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S11",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A dodecahedron has 12 pentagonal faces. How many edges does it have?",
+          "options": [
+            "20",
+            "24",
+            "30",
+            "36"
+          ],
+          "correct_answer": "30",
+          "explanation": "Using Euler's formula: 12 faces, 20 vertices \u2192 Edges = (12\u00d75)\u00f72 = 30.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S12",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "hard",
+          "question": "A 3D cube is reflected across a plane parallel to one face. What shape results?",
+          "options": [
+            "Rectangular prism",
+            "Sphere",
+            "Different cube orientation",
+            "Same cube"
+          ],
+          "correct_answer": "Same cube",
+          "explanation": "Reflecting a cube across a plane parallel to a face produces an identical cube.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S13",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "A pattern shows shapes rotating 45\u00b0 clockwise each step. After how many steps does it return to original position?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+          ],
+          "correct_answer": "8",
+          "explanation": "360\u00b0 \u00f7 45\u00b0 per step = 8 steps to complete rotation.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S14",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "An icosahedron has 20 triangular faces. How many vertices does it have?",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correct_answer": "12",
+          "explanation": "Using Euler's formula: V - E + F = 2. With F=20, E=30: V = 2 + 30 - 20 = 12.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_S15",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "A rectangle (length 4, width 2) rotates 90\u00b0 around its center. What are its new dimensions from the original perspective?",
+          "options": [
+            "4\u00d72 (same)",
+            "2\u00d74 (swapped)",
+            "4\u00d74 (square)",
+            "Cannot determine"
+          ],
+          "correct_answer": "2\u00d74 (swapped)",
+          "explanation": "90\u00b0 rotation swaps length and width from the original viewing angle.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "logical_reasoning": {
+      "questions": [
+        {
+          "id": "D_L01",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "easy",
+          "question": "All fish live in water. A salmon is a fish. Therefore, a salmon lives in ___?",
+          "options": [
+            "Air",
+            "Water",
+            "Trees",
+            "Soil"
+          ],
+          "correct_answer": "Water",
+          "explanation": "Syllogism: All fish live in water, salmon is a fish, therefore salmon lives in water.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_L02",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "easy",
+          "question": "If you study hard, you learn. You studied hard. Therefore, you ___?",
+          "options": [
+            "Forgot",
+            "Learned",
+            "Failed",
+            "Quit"
+          ],
+          "correct_answer": "Learned",
+          "explanation": "Modus ponens: If P then Q. P is true. Therefore Q is true.",
+          "time_estimate": 30
+        },
+        {
+          "id": "D_L03",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "If M is older than N, and N is older than O, who is the youngest?",
+          "options": [
+            "M",
+            "N",
+            "O",
+            "Cannot determine"
+          ],
+          "correct_answer": "O",
+          "explanation": "Transitive property: M > N > O, therefore O is youngest.",
+          "time_estimate": 45
+        },
+        {
+          "id": "D_L04",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "Some cars are electric. All electric vehicles are eco-friendly. Therefore, some cars are ___?",
+          "options": [
+            "Not eco-friendly",
+            "Eco-friendly",
+            "Gas-powered",
+            "Expensive"
+          ],
+          "correct_answer": "Eco-friendly",
+          "explanation": "Some cars are electric, all electric vehicles are eco-friendly, so some cars are eco-friendly.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_L05",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If Lisa eats breakfast, she has energy. Lisa doesn't have energy. Therefore, Lisa ___?",
+          "options": [
+            "Ate breakfast",
+            "Didn't eat breakfast",
+            "Might have eaten",
+            "Is full"
+          ],
+          "correct_answer": "Didn't eat breakfast",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_L06",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "medium",
+          "question": "A farmer needs to cross a river with a fox, chicken, and grain. Boat holds farmer plus one item. Fox eats chicken if alone. Chicken eats grain if alone. How many minimum trips?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+          ],
+          "correct_answer": "7",
+          "explanation": "Take chicken, return empty, take fox, return with chicken, take grain, return empty, take chicken = 7 trips.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L07",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All planets orbit stars. Earth orbits the sun. Therefore, the sun is ___?",
+          "options": [
+            "Not a star",
+            "A star",
+            "A planet",
+            "Cannot determine"
+          ],
+          "correct_answer": "A star",
+          "explanation": "All planets orbit stars, Earth is a planet orbiting the sun, so the sun is a star.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L08",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "Three books are stacked. The red book is below the blue book. The green book is above the blue book. Which is in the middle?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Cannot determine"
+          ],
+          "correct_answer": "Blue",
+          "explanation": "Order from bottom: Red, Blue, Green. Blue is in the middle.",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_L09",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If traffic is heavy, John takes the train. John took the train. Therefore, traffic was ___?",
+          "options": [
+            "Heavy",
+            "Light",
+            "Normal",
+            "Cannot determine"
+          ],
+          "correct_answer": "Cannot determine",
+          "explanation": "This is affirming the consequent fallacy. John could take the train for other reasons.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L10",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All circles are round. This shape is round. Therefore, this shape is ___?",
+          "options": [
+            "Definitely a circle",
+            "Possibly a circle",
+            "Not a circle",
+            "A square"
+          ],
+          "correct_answer": "Possibly a circle",
+          "explanation": "Being round is necessary but not sufficient (spheres, ovals are also round).",
+          "time_estimate": 60
+        },
+        {
+          "id": "D_L11",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "Five houses in different colors. Englishman lives in red. Spaniard has dog. Coffee in green house. Ukrainian drinks tea. Green house directly right of ivory. Who drinks water?",
+          "options": [
+            "Norwegian",
+            "Englishman",
+            "Spaniard",
+            "Cannot determine with given info"
+          ],
+          "correct_answer": "Cannot determine with given info",
+          "explanation": "This is an incomplete version of Einstein's riddle - insufficient information provided.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L12",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "Six people in a line. Alice is 3rd. Bob is 2 positions ahead of Carol. Carol is last. Where is Bob?",
+          "options": [
+            "2nd",
+            "3rd",
+            "4th",
+            "5th"
+          ],
+          "correct_answer": "4th",
+          "explanation": "Carol is 6th (last). Bob is 2 ahead: 6-2=4th position.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L13",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "If no A are B, and all C are A, then ___?",
+          "options": [
+            "Some C are B",
+            "All C are B",
+            "No C are B",
+            "Cannot determine"
+          ],
+          "correct_answer": "No C are B",
+          "explanation": "All C are A, and no A are B, therefore no C are B.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L14",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You have 9 identical balls but one is slightly heavier. Using a balance scale only twice, can you find the heavy ball?",
+          "options": [
+            "Yes",
+            "No",
+            "Only with luck",
+            "Need 3 weighings"
+          ],
+          "correct_answer": "Yes",
+          "explanation": "Divide into 3 groups of 3. Weigh two groups. Heavy group found. Weigh 2 of those 3. Can identify heavy ball.",
+          "time_estimate": 75
+        },
+        {
+          "id": "D_L15",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "All doctors have degrees. Some degree holders are wealthy. Therefore, ___?",
+          "options": [
+            "All doctors are wealthy",
+            "Some doctors are wealthy",
+            "No doctors are wealthy",
+            "Cannot determine if any doctors are wealthy"
+          ],
+          "correct_answer": "Cannot determine if any doctors are wealthy",
+          "explanation": "We know some degree holders are wealthy, but not if those wealthy degree holders include doctors.",
+          "time_estimate": 75
+        }
+      ]
+    }
+  },
+  "difficulty_summary": {
+    "easy": 10,
+    "medium": 30,
+    "hard": 20
+  }
+}

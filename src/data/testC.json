@@ -1,0 +1,989 @@
+{
+  "test_id": "VERSION_C",
+  "version": "1.0",
+  "total_questions": 60,
+  "time_limit_minutes": 60,
+  "sections": {
+    "verbal_reasoning": {
+      "questions": [
+        {
+          "id": "C_V01",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "easy",
+          "question": "Which word is most similar in meaning to LARGE?",
+          "options": [
+            "Big",
+            "Small",
+            "Tiny",
+            "Short"
+          ],
+          "correct_answer": "Big",
+          "explanation": "Big means of considerable size, synonymous with large.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_V02",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "easy",
+          "question": "Which word is most opposite in meaning to ROUGH?",
+          "options": [
+            "Smooth",
+            "Coarse",
+            "Hard",
+            "Bumpy"
+          ],
+          "correct_answer": "Smooth",
+          "explanation": "Smooth is the opposite of rough.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_V03",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "easy",
+          "question": "Fish is to Water as Bird is to ___?",
+          "options": [
+            "Air",
+            "Nest",
+            "Tree",
+            "Feather"
+          ],
+          "correct_answer": "Air",
+          "explanation": "Fish live in water; birds live in air.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_V04",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Sweet"
+          ],
+          "correct_answer": "Sweet",
+          "explanation": "Sweet is a taste; the others are colors.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V05",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to TRANQUIL?",
+          "options": [
+            "Peaceful",
+            "Noisy",
+            "Chaotic",
+            "Loud"
+          ],
+          "correct_answer": "Peaceful",
+          "explanation": "Tranquil means calm and peaceful.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V06",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to HOSTILE?",
+          "options": [
+            "Friendly",
+            "Angry",
+            "Mean",
+            "Aggressive"
+          ],
+          "correct_answer": "Friendly",
+          "explanation": "Hostile means unfriendly or antagonistic; friendly is the opposite.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V07",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Rain is to Umbrella as Sun is to ___?",
+          "options": [
+            "Sunglasses",
+            "Moon",
+            "Cloud",
+            "Star"
+          ],
+          "correct_answer": "Sunglasses",
+          "explanation": "You use an umbrella for rain; you use sunglasses for sun.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V08",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Chair",
+            "Table",
+            "Sofa",
+            "Flower"
+          ],
+          "correct_answer": "Flower",
+          "explanation": "Flower is a plant; the others are furniture.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V09",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to RAPID?",
+          "options": [
+            "Swift",
+            "Slow",
+            "Steady",
+            "Gradual"
+          ],
+          "correct_answer": "Swift",
+          "explanation": "Rapid means happening quickly, synonymous with swift.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_V10",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to SIMPLE?",
+          "options": [
+            "Complex",
+            "Easy",
+            "Basic",
+            "Plain"
+          ],
+          "correct_answer": "Complex",
+          "explanation": "Simple means easy to understand; complex means complicated.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V11",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Captain is to Ship as Pilot is to ___?",
+          "options": [
+            "Airplane",
+            "Car",
+            "Train",
+            "Boat"
+          ],
+          "correct_answer": "Airplane",
+          "explanation": "A captain commands a ship; a pilot commands an airplane.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_V12",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to CANDID?",
+          "options": [
+            "Frank",
+            "Dishonest",
+            "Secretive",
+            "Deceptive"
+          ],
+          "correct_answer": "Frank",
+          "explanation": "Candid means truthful and straightforward, similar to frank.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_V13",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "hard",
+          "question": "Which word is most opposite in meaning to ARROGANT?",
+          "options": [
+            "Humble",
+            "Boastful",
+            "Proud",
+            "Conceited"
+          ],
+          "correct_answer": "Humble",
+          "explanation": "Arrogant means having excessive pride; humble is the opposite.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_V14",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Shark",
+            "Dolphin",
+            "Whale",
+            "Salmon"
+          ],
+          "correct_answer": "Shark",
+          "explanation": "Shark is a fish; the others are mammals.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_V15",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to DILIGENT?",
+          "options": [
+            "Hardworking",
+            "Careless",
+            "Lazy",
+            "Negligent"
+          ],
+          "correct_answer": "Hardworking",
+          "explanation": "Diligent means showing care and effort, synonymous with hardworking.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "numerical_reasoning": {
+      "questions": [
+        {
+          "id": "C_N01",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next in the sequence: 3, 6, 9, 12, ___?",
+          "options": [
+            "15",
+            "14",
+            "13",
+            "16"
+          ],
+          "correct_answer": "15",
+          "explanation": "The sequence increases by 3 each time: 3+3=6, 6+3=9, 9+3=12, 12+3=15.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_N02",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "easy",
+          "question": "What is 72 \u00f7 8?",
+          "options": [
+            "9",
+            "8",
+            "7",
+            "10"
+          ],
+          "correct_answer": "9",
+          "explanation": "72 \u00f7 8 = 9.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_N03",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "If 4 cookies cost $8, how much does 1 cookie cost?",
+          "options": [
+            "$2",
+            "$3",
+            "$1",
+            "$4"
+          ],
+          "correct_answer": "$2",
+          "explanation": "$8 divided by 4 cookies = $2 per cookie.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_N04",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 100, 50, 25, 12.5, ___?",
+          "options": [
+            "6",
+            "6.5",
+            "7",
+            "6.25"
+          ],
+          "correct_answer": "6.25",
+          "explanation": "Each number is divided by 2: 100\u00f72=50, 50\u00f72=25, 25\u00f72=12.5, 12.5\u00f72=6.25.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_N05",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 19 \u00d7 7?",
+          "options": [
+            "123",
+            "143",
+            "153",
+            "133"
+          ],
+          "correct_answer": "133",
+          "explanation": "19 \u00d7 7 = 133.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_N06",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A garden has 18 rows with 12 plants in each row. How many plants total?",
+          "options": [
+            "196",
+            "206",
+            "226",
+            "216"
+          ],
+          "correct_answer": "216",
+          "explanation": "18 rows \u00d7 12 plants = 216 plants.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_N07",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 4, 8, 16, 32, ___?",
+          "options": [
+            "48",
+            "56",
+            "72",
+            "64"
+          ],
+          "correct_answer": "64",
+          "explanation": "Each number is multiplied by 2: 4\u00d72=8, 8\u00d72=16, 16\u00d72=32, 32\u00d72=64.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_N08",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 365 - 187?",
+          "options": [
+            "168",
+            "188",
+            "198",
+            "178"
+          ],
+          "correct_answer": "178",
+          "explanation": "365 - 187 = 178.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_N09",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a bag contains 60 marbles and 25% are red, how many are red?",
+          "options": [
+            "12",
+            "18",
+            "20",
+            "15"
+          ],
+          "correct_answer": "15",
+          "explanation": "25% of 60 = 0.25 \u00d7 60 = 15 red marbles.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_N10",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 11, 22, 33, 44, ___?",
+          "options": [
+            "50",
+            "60",
+            "65",
+            "55"
+          ],
+          "correct_answer": "55",
+          "explanation": "Multiples of 11: 11\u00d71=11, 11\u00d72=22, 11\u00d73=33, 11\u00d74=44, 11\u00d75=55.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_N11",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 540 + 285?",
+          "options": [
+            "815",
+            "835",
+            "825",
+            "845"
+          ],
+          "correct_answer": "825",
+          "explanation": "540 + 285 = 825.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_N12",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A cyclist travels 18 miles in 1.5 hours. What is their average speed in mph?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correct_answer": "12",
+          "explanation": "Speed = distance \u00f7 time = 18 \u00f7 1.5 = 12 mph.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_N13",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 3, 7, 15, 31, ___?",
+          "options": [
+            "55",
+            "59",
+            "63",
+            "67"
+          ],
+          "correct_answer": "63",
+          "explanation": "Pattern: \u00d72+1. 3\u00d72+1=7, 7\u00d72+1=15, 15\u00d72+1=31, 31\u00d72+1=63.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_N14",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "If 35% of a number is 70, what is the number?",
+          "options": [
+            "180",
+            "190",
+            "200",
+            "210"
+          ],
+          "correct_answer": "200",
+          "explanation": "0.35 \u00d7 number = 70, so number = 70 \u00f7 0.35 = 200.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_N15",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 2, 3, 5, 8, 13, ___?",
+          "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+          ],
+          "correct_answer": "21",
+          "explanation": "Add previous two numbers: 2+3=5, 3+5=8, 5+8=13, 8+13=21. (Modified Fibonacci)",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "spatial_reasoning": {
+      "questions": [
+        {
+          "id": "C_S01",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "easy",
+          "question": "Which shape completes the pattern: Heart, Diamond, Heart, Diamond, Heart, ___?",
+          "options": [
+            "Heart",
+            "Club",
+            "Spade",
+            "Diamond"
+          ],
+          "correct_answer": "Diamond",
+          "explanation": "The pattern alternates between heart and diamond.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_S02",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "How many sides does an octagon have?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correct_answer": "8",
+          "explanation": "An octagon has 8 sides by definition.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_S03",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you flip the letter 'q' horizontally, what do you get?",
+          "options": [
+            "p",
+            "b",
+            "d",
+            "q"
+          ],
+          "correct_answer": "p",
+          "explanation": "Flipping 'q' horizontally produces 'p'.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_S04",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "What comes next in the sequence: \u25c4 \u25ba \u25c4 \u25ba \u25c4 ___?",
+          "options": [
+            "\u25c4",
+            "\u25bc",
+            "\u25b2",
+            "\u25ba"
+          ],
+          "correct_answer": "\u25ba",
+          "explanation": "The pattern alternates between left arrow (\u25c4) and right arrow (\u25ba).",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_S05",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a rectangle has a perimeter of 28 and one side is 6, what is the other side?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "10"
+          ],
+          "correct_answer": "8",
+          "explanation": "Perimeter = 2(length + width). 28 = 2(6 + width), so 14 = 6 + width, width = 8.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S06",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "If you rotate the number '2' 180 degrees, what does it most resemble?",
+          "options": [
+            "2",
+            "5",
+            "S-like shape",
+            "Z"
+          ],
+          "correct_answer": "S-like shape",
+          "explanation": "The number 2 rotated 180 degrees resembles an S-like or reversed shape.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_S07",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "Which is different: A triangle pointing up, a triangle pointing up, a triangle pointing down, a triangle pointing up?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "correct_answer": "Third",
+          "explanation": "The third triangle points down; all others point up.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_S08",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "How many edges does a rectangular prism (box) have?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "correct_answer": "12",
+          "explanation": "A rectangular prism has 12 edges.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S09",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you flip the letter 'A' horizontally, what do you get?",
+          "options": [
+            "V",
+            "T",
+            "H",
+            "A"
+          ],
+          "correct_answer": "A",
+          "explanation": "The letter A is horizontally symmetric and remains A when flipped.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_S10",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Pattern: \u25a1 \u25a1 \u25a1 \u25a0 \u25a1 \u25a1 \u25a1 \u25a0. What comes next?",
+          "options": [
+            "\u25a1",
+            "\u25a0",
+            "\u25a1\u25a1",
+            "\u25a0\u25a0"
+          ],
+          "correct_answer": "\u25a1",
+          "explanation": "Pattern: three empty (\u25a1\u25a1\u25a1), one filled (\u25a0). Next is empty (\u25a1).",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S11",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A cube is cut into 8 equal smaller cubes (2\u00d72\u00d72). How many of the small cubes have exactly 3 faces painted?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "correct_answer": "8",
+          "explanation": "All 8 corner cubes have exactly 3 painted faces (the original cube's corners).",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S12",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "If you rotate the letter 'L' 90 degrees clockwise, what letter does it resemble?",
+          "options": [
+            "T",
+            "Upside-down L",
+            "Rotated 7",
+            "No common letter"
+          ],
+          "correct_answer": "Rotated 7",
+          "explanation": "L rotated 90\u00b0 clockwise resembles an upside-down 7 or rotated gamma shape.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S13",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "If a pattern shows: Large triangle, small circle, medium square, large triangle, small circle, ___?",
+          "options": [
+            "Large triangle",
+            "Small circle",
+            "Medium square",
+            "Large circle"
+          ],
+          "correct_answer": "Medium square",
+          "explanation": "Pattern repeats every 3 items: large triangle, small circle, medium square.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S14",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A tetrahedron (triangular pyramid) has how many faces?",
+          "options": [
+            "3",
+            "6",
+            "5",
+            "4"
+          ],
+          "correct_answer": "4",
+          "explanation": "A tetrahedron has 4 triangular faces.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_S15",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "hard",
+          "question": "If a 3\u00d73 grid has 9 cells and you draw an X in each cell (two diagonal lines), how many line segments are created in total?",
+          "options": [
+            "9",
+            "36",
+            "27",
+            "18"
+          ],
+          "correct_answer": "18",
+          "explanation": "Each cell gets 2 diagonal lines (X = 2 lines). 9 cells \u00d7 2 = 18 line segments.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "logical_reasoning": {
+      "questions": [
+        {
+          "id": "C_L01",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "easy",
+          "question": "All trees have roots. An oak is a tree. Therefore, an oak has ___?",
+          "options": [
+            "Leaves",
+            "Roots",
+            "Branches",
+            "Fruit"
+          ],
+          "correct_answer": "Roots",
+          "explanation": "Syllogism: All trees have roots, oak is a tree, therefore oak has roots.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_L02",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "easy",
+          "question": "If you water a plant, it grows. You watered the plant. Therefore, it ___?",
+          "options": [
+            "Dies",
+            "Grows",
+            "Wilts",
+            "Shrinks"
+          ],
+          "correct_answer": "Grows",
+          "explanation": "Modus ponens: If P then Q. P is true. Therefore Q is true.",
+          "time_estimate": 30
+        },
+        {
+          "id": "C_L03",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "If P is faster than Q, and Q is faster than R, who is the slowest?",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "Cannot determine"
+          ],
+          "correct_answer": "R",
+          "explanation": "Transitive property: P > Q > R, therefore R is slowest.",
+          "time_estimate": 45
+        },
+        {
+          "id": "C_L04",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "Some musicians play guitar. All guitar players practice regularly. Therefore, some musicians ___?",
+          "options": [
+            "Don't practice",
+            "Practice regularly",
+            "Play piano",
+            "Sing"
+          ],
+          "correct_answer": "Practice regularly",
+          "explanation": "Some musicians play guitar, all guitar players practice regularly, so some musicians practice regularly.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_L05",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If Tom practices, he improves. Tom didn't improve. Therefore, Tom ___?",
+          "options": [
+            "Practiced",
+            "Didn't practice",
+            "Might have practiced",
+            "Improved anyway"
+          ],
+          "correct_answer": "Didn't practice",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_L06",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "A man walks 5 miles south, 5 miles east, then 5 miles north and ends up where he started. Where is he?",
+          "options": [
+            "Equator",
+            "North Pole",
+            "South Pole",
+            "Impossible"
+          ],
+          "correct_answer": "North Pole",
+          "explanation": "At the North Pole, walking south, east, then north returns you to start due to Earth's curvature.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L07",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All insects have six legs. Spiders have eight legs. Therefore, spiders are ___?",
+          "options": [
+            "Definitely insects",
+            "Definitely not insects",
+            "Possibly insects",
+            "Arachnids"
+          ],
+          "correct_answer": "Definitely not insects",
+          "explanation": "Insects have six legs. Spiders have eight legs. Therefore spiders are not insects.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L08",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "In a stack, red block is on top of blue. Blue is on top of green. Which is at the bottom?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Cannot determine"
+          ],
+          "correct_answer": "Green",
+          "explanation": "Order from top: Red, Blue, Green. Green is at bottom.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_L09",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If it snows, schools close. Schools are closed. Therefore, it ___?",
+          "options": [
+            "Snowed",
+            "Didn't snow",
+            "Is sunny",
+            "Cannot determine"
+          ],
+          "correct_answer": "Cannot determine",
+          "explanation": "This is affirming the consequent fallacy. Schools could close for other reasons (holiday, emergency, etc.).",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L10",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All squares are rectangles. This shape is a square. Therefore, this shape is ___?",
+          "options": [
+            "Not a rectangle",
+            "A rectangle",
+            "A circle",
+            "A triangle"
+          ],
+          "correct_answer": "A rectangle",
+          "explanation": "All squares are rectangles, this is a square, so it's a rectangle.",
+          "time_estimate": 60
+        },
+        {
+          "id": "C_L11",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water?",
+          "options": [
+            "Fill 5L twice",
+            "Fill 5L, pour into 3L, empty 3L, pour remaining into 3L, fill 5L again, top off 3L",
+            "Cannot be done",
+            "Fill both jugs"
+          ],
+          "correct_answer": "Fill 5L, pour into 3L, empty 3L, pour remaining into 3L, fill 5L again, top off 3L",
+          "explanation": "Fill 5L jug, pour 3L out (2L remains). Empty 3L jug. Pour 2L into 3L jug. Fill 5L jug. Pour from 5L to top off 3L jug (uses 1L). 5L - 1L = 4L remains.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L12",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "Five runners finish a race. Lisa beat Mark. Tom finished after Lisa but before Sara. Mark beat Sara. Who finished second?",
+          "options": [
+            "Lisa",
+            "Mark",
+            "Tom",
+            "Sara"
+          ],
+          "correct_answer": "Tom",
+          "explanation": "Order: Lisa, Tom, Mark, Sara. Tom is second. (Note: assuming 4 runners, not 5 - this is actually a trick)",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L13",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "If all A are B, and some B are C, then ___?",
+          "options": [
+            "All A are C",
+            "Some A are C",
+            "No A are C",
+            "Cannot determine if any A are C"
+          ],
+          "correct_answer": "Cannot determine if any A are C",
+          "explanation": "We know all A are B, and some B are C, but we don't know if those particular B that are C include any A.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L14",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost?",
+          "options": [
+            "$0.05",
+            "$0.10",
+            "$0.15",
+            "$0.20"
+          ],
+          "correct_answer": "$0.05",
+          "explanation": "If ball = x, then bat = x + $1. So x + (x + $1) = $1.10, meaning 2x = $0.10, so x = $0.05.",
+          "time_estimate": 75
+        },
+        {
+          "id": "C_L15",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "All lawyers are educated. No criminals are educated. Therefore, ___?",
+          "options": [
+            "Some lawyers are criminals",
+            "No lawyers are criminals",
+            "All criminals are lawyers",
+            "Cannot determine"
+          ],
+          "correct_answer": "No lawyers are criminals",
+          "explanation": "All lawyers are educated, no criminals are educated, therefore no lawyers are criminals.",
+          "time_estimate": 75
+        }
+      ]
+    }
+  },
+  "difficulty_summary": {
+    "easy": 10,
+    "medium": 30,
+    "hard": 20
+  }
+}

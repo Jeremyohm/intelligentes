@@ -1,0 +1,989 @@
+{
+  "test_id": "VERSION_E",
+  "version": "1.0",
+  "total_questions": 60,
+  "time_limit_minutes": 60,
+  "sections": {
+    "verbal_reasoning": {
+      "questions": [
+        {
+          "id": "E_V01",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "easy",
+          "question": "Which word is most opposite in meaning to LOUD?",
+          "options": [
+            "Noisy",
+            "Quiet",
+            "Booming",
+            "Thunderous"
+          ],
+          "correct_answer": "Quiet",
+          "explanation": "Quiet is the opposite of loud.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_V02",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "easy",
+          "question": "Which word is most similar in meaning to SMALL?",
+          "options": [
+            "Tiny",
+            "Huge",
+            "Giant",
+            "Massive"
+          ],
+          "correct_answer": "Tiny",
+          "explanation": "Tiny means very small.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_V03",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "easy",
+          "question": "Cow is to Milk as Bee is to ___?",
+          "options": [
+            "Honey",
+            "Flower",
+            "Hive",
+            "Sting"
+          ],
+          "correct_answer": "Honey",
+          "explanation": "A cow produces milk; a bee produces honey.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_V04",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Hammer",
+            "Screwdriver",
+            "Wrench",
+            "Brick"
+          ],
+          "correct_answer": "Brick",
+          "explanation": "Brick is a building material; the others are tools.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V05",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to VANISH?",
+          "options": [
+            "Disappear",
+            "Appear",
+            "Emerge",
+            "Arrive"
+          ],
+          "correct_answer": "Disappear",
+          "explanation": "Vanish means to disappear suddenly.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V06",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to WEALTH?",
+          "options": [
+            "Poverty",
+            "Riches",
+            "Fortune",
+            "Money"
+          ],
+          "correct_answer": "Poverty",
+          "explanation": "Wealth means abundance of resources; poverty is the opposite.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V07",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Fire is to Heat as Ice is to ___?",
+          "options": [
+            "Cold",
+            "Water",
+            "Snow",
+            "Winter"
+          ],
+          "correct_answer": "Cold",
+          "explanation": "Fire produces heat; ice produces cold.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V08",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "River",
+            "Lake",
+            "Ocean",
+            "Mountain"
+          ],
+          "correct_answer": "Mountain",
+          "explanation": "Mountain is a landform; the others are bodies of water.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V09",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to BRAVE?",
+          "options": [
+            "Fearless",
+            "Cowardly",
+            "Timid",
+            "Scared"
+          ],
+          "correct_answer": "Fearless",
+          "explanation": "Brave means showing courage, synonymous with fearless.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_V10",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to SHALLOW?",
+          "options": [
+            "Deep",
+            "Surface",
+            "Low",
+            "Flat"
+          ],
+          "correct_answer": "Deep",
+          "explanation": "Shallow means not deep; deep is the opposite.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V11",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Ear is to Hearing as Nose is to ___?",
+          "options": [
+            "Smell",
+            "Breathing",
+            "Touching",
+            "Tasting"
+          ],
+          "correct_answer": "Smell",
+          "explanation": "The ear is used for hearing; the nose is used for smell.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_V12",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to RESILIENT?",
+          "options": [
+            "Durable",
+            "Fragile",
+            "Breakable",
+            "Delicate"
+          ],
+          "correct_answer": "Durable",
+          "explanation": "Resilient means able to recover quickly, similar to durable or tough.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_V13",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "hard",
+          "question": "Which word is most opposite in meaning to OPAQUE?",
+          "options": [
+            "Transparent",
+            "Dark",
+            "Cloudy",
+            "Murky"
+          ],
+          "correct_answer": "Transparent",
+          "explanation": "Opaque means not see-through; transparent is the opposite.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_V14",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Democracy",
+            "Monarchy",
+            "Republic",
+            "Freedom"
+          ],
+          "correct_answer": "Freedom",
+          "explanation": "Freedom is a concept; the others are forms of government.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_V15",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to ADVERSARY?",
+          "options": [
+            "Opponent",
+            "Partner",
+            "Friend",
+            "Ally"
+          ],
+          "correct_answer": "Opponent",
+          "explanation": "Adversary means an opponent or enemy.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "numerical_reasoning": {
+      "questions": [
+        {
+          "id": "E_N01",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next in the sequence: 4, 8, 12, 16, ___?",
+          "options": [
+            "20",
+            "22",
+            "18",
+            "24"
+          ],
+          "correct_answer": "20",
+          "explanation": "The sequence increases by 4 each time: 4+4=8, 8+4=12, 12+4=16, 16+4=20.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_N02",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "easy",
+          "question": "What is 63 \u00f7 9?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correct_answer": "7",
+          "explanation": "63 \u00f7 9 = 7.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_N03",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "If 2 notebooks cost $10, how much do 5 notebooks cost?",
+          "options": [
+            "$25",
+            "$30",
+            "$20",
+            "$35"
+          ],
+          "correct_answer": "$25",
+          "explanation": "Each notebook costs $5 ($10\u00f72). 5 notebooks = 5\u00d7$5 = $25.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_N04",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 216, 108, 54, 27, ___?",
+          "options": [
+            "13.5",
+            "18",
+            "20",
+            "24"
+          ],
+          "correct_answer": "13.5",
+          "explanation": "Each number is divided by 2: 216\u00f72=108, 108\u00f72=54, 54\u00f72=27, 27\u00f72=13.5.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_N05",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 16 \u00d7 9?",
+          "options": [
+            "144",
+            "154",
+            "134",
+            "164"
+          ],
+          "correct_answer": "144",
+          "explanation": "16 \u00d7 9 = 144.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_N06",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A triangle has angles of 60\u00b0, 60\u00b0, and x\u00b0. What is x?",
+          "options": [
+            "40",
+            "50",
+            "70",
+            "60"
+          ],
+          "correct_answer": "60",
+          "explanation": "Triangle angles sum to 180\u00b0. 60 + 60 + x = 180, so x = 60.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_N07",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 7, 10, 16, 28, ___?",
+          "options": [
+            "40",
+            "46",
+            "58",
+            "52"
+          ],
+          "correct_answer": "52",
+          "explanation": "Pattern: +3, +6, +12, +24 (doubling). 28+24=52.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_N08",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 324 \u00f7 18?",
+          "options": [
+            "16",
+            "20",
+            "22",
+            "18"
+          ],
+          "correct_answer": "18",
+          "explanation": "324 \u00f7 18 = 18.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_N09",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a cube has a volume of 64, what is the length of one edge?",
+          "options": [
+            "2",
+            "6",
+            "8",
+            "4"
+          ],
+          "correct_answer": "4",
+          "explanation": "Volume = edge\u00b3. 64 = edge\u00b3, so edge = \u221b64 = 4.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_N10",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 9, 18, 27, 36, ___?",
+          "options": [
+            "40",
+            "42",
+            "48",
+            "45"
+          ],
+          "correct_answer": "45",
+          "explanation": "Multiples of 9: 9\u00d71=9, 9\u00d72=18, 9\u00d73=27, 9\u00d74=36, 9\u00d75=45.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_N11",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 795 + 318?",
+          "options": [
+            "1013",
+            "1103",
+            "1213",
+            "1113"
+          ],
+          "correct_answer": "1113",
+          "explanation": "795 + 318 = 1113.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_N12",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A store offers 30% off a $80 item. What is the final price?",
+          "options": [
+            "$50",
+            "$54",
+            "$56",
+            "$60"
+          ],
+          "correct_answer": "$56",
+          "explanation": "30% of $80 = $24. Final price = $80 - $24 = $56.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_N13",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 4, 12, 36, 108, ___?",
+          "options": [
+            "216",
+            "288",
+            "324",
+            "432"
+          ],
+          "correct_answer": "324",
+          "explanation": "Each number is multiplied by 3: 4\u00d73=12, 12\u00d73=36, 36\u00d73=108, 108\u00d73=324.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_N14",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "If 5/8 of a number is 40, what is the number?",
+          "options": [
+            "48",
+            "56",
+            "64",
+            "72"
+          ],
+          "correct_answer": "64",
+          "explanation": "(5/8) \u00d7 number = 40, so number = 40 \u00d7 (8/5) = 64.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_N15",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 1, 2, 4, 7, 11, 16, ___?",
+          "options": [
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          "correct_answer": "22",
+          "explanation": "Differences increase by 1: +1, +2, +3, +4, +5, +6. 16+6=22.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "spatial_reasoning": {
+      "questions": [
+        {
+          "id": "E_S01",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "easy",
+          "question": "Which shape completes the pattern: X, O, X, O, X, ___?",
+          "options": [
+            "X",
+            "Y",
+            "O",
+            "Z"
+          ],
+          "correct_answer": "O",
+          "explanation": "The pattern alternates between X and O.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_S02",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "How many sides does a nonagon have?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correct_answer": "9",
+          "explanation": "A nonagon has 9 sides by definition.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_S03",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "A rectangle rotates 180 degrees. If the left edge was BLUE, which edge is now on the left?",
+          "options": [
+            "Blue",
+            "Top edge",
+            "Right edge",
+            "Bottom edge"
+          ],
+          "correct_answer": "Right edge",
+          "explanation": "180\u00b0 rotation: left\u2192right, right\u2192left, top\u2192bottom, bottom\u2192top.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_S04",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "An upward arrow (\u2191) is reflected across a horizontal mirror. What direction does it point?",
+          "options": [
+            "Up (\u2191)",
+            "Right (\u2192)",
+            "Left (\u2190)",
+            "Down (\u2193)"
+          ],
+          "correct_answer": "Down (\u2193)",
+          "explanation": "Horizontal mirror reflection reverses vertical direction.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_S05",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If you unfold a cube into a flat pattern, how many squares are in the pattern?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correct_answer": "6",
+          "explanation": "A cube has 6 faces, so the unfolded pattern has 6 squares.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_S06",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "A regular octagon rotates 45 degrees. How does it appear?",
+          "options": [
+            "Identical to original",
+            "Different orientation",
+            "Upside down",
+            "Cannot determine"
+          ],
+          "correct_answer": "Identical to original",
+          "explanation": "Regular octagon has 45\u00b0 rotational symmetry (360\u00b0\u00f78=45\u00b0).",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S07",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Pattern: \u25a2 \u25a3 \u25a2 \u25a2 \u25a3 \u25a2 \u25a2 \u25a2. What comes next?",
+          "options": [
+            "\u25a2",
+            "\u25a2\u25a2",
+            "\u25a3\u25a3",
+            "\u25a3"
+          ],
+          "correct_answer": "\u25a3",
+          "explanation": "Pattern: 1 empty, 1 filled, 2 empty, 1 filled, 3 empty, [1 filled].",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S08",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A cone has 1 circular face and 1 vertex. How many edges does it have?",
+          "options": [
+            "0",
+            "3",
+            "2",
+            "1"
+          ],
+          "correct_answer": "1",
+          "explanation": "A cone has 1 circular edge where the base meets the curved surface.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S09",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "Which letter looks the same when rotated 180 degrees?",
+          "options": [
+            "A",
+            "B",
+            "H",
+            "R"
+          ],
+          "correct_answer": "H",
+          "explanation": "The letter H has 180\u00b0 rotational symmetry.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_S10",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "A clock hand points at 3. After rotating 270 degrees clockwise, where does it point?",
+          "options": [
+            "12",
+            "6",
+            "9",
+            "3"
+          ],
+          "correct_answer": "12",
+          "explanation": "From 3, rotating 270\u00b0 clockwise: 3\u21926\u21929\u219212.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S11",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A sphere with radius 3 has what surface area? (Use \u03c0 \u2248 3)",
+          "options": [
+            "36",
+            "72",
+            "108",
+            "144"
+          ],
+          "correct_answer": "108",
+          "explanation": "Surface area = 4\u03c0r\u00b2. 4\u00d73\u00d73\u00b2 = 4\u00d73\u00d79 = 108.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S12",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "hard",
+          "question": "If a regular hexagon is folded along a line through opposite vertices, what angle forms at the fold?",
+          "options": [
+            "60\u00b0",
+            "90\u00b0",
+            "120\u00b0",
+            "180\u00b0"
+          ],
+          "correct_answer": "180\u00b0",
+          "explanation": "Folding creates a 180\u00b0 straight line along the crease.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S13",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Shapes grow by adding layers. Sequence: 1 square, 5 squares (+ shape), 13 squares (++ shape). How many in next?",
+          "options": [
+            "21",
+            "33",
+            "29",
+            "25"
+          ],
+          "correct_answer": "25",
+          "explanation": "Pattern adds: +4, +8, +12 (increases by 4 each time). 13+12=25.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S14",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "How many diagonals does a regular hexagon have?",
+          "options": [
+            "6",
+            "15",
+            "12",
+            "9"
+          ],
+          "correct_answer": "9",
+          "explanation": "Formula: n(n-3)/2. For hexagon (n=6): 6(3)/2 = 9 diagonals.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_S15",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "A triangle with vertices at coordinates (0,0), (4,0), (0,3) rotates 90\u00b0 clockwise around origin. Where is the (4,0) vertex now?",
+          "options": [
+            "(0,4)",
+            "(0,-4)",
+            "(4,0)",
+            "(-4,0)"
+          ],
+          "correct_answer": "(0,-4)",
+          "explanation": "90\u00b0 clockwise rotation: (x,y) \u2192 (y,-x). So (4,0) \u2192 (0,-4).",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "logical_reasoning": {
+      "questions": [
+        {
+          "id": "E_L01",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "easy",
+          "question": "All flowers need water. A rose is a flower. Therefore, a rose needs ___?",
+          "options": [
+            "Sun",
+            "Water",
+            "Soil",
+            "Air"
+          ],
+          "correct_answer": "Water",
+          "explanation": "Syllogism: All flowers need water, rose is a flower, therefore rose needs water.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_L02",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "easy",
+          "question": "If you turn on a light, the room brightens. You turned on the light. Therefore, the room ___?",
+          "options": [
+            "Darkened",
+            "Brightened",
+            "Stayed same",
+            "Cooled"
+          ],
+          "correct_answer": "Brightened",
+          "explanation": "Modus ponens: If P then Q. P is true. Therefore Q is true.",
+          "time_estimate": 30
+        },
+        {
+          "id": "E_L03",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "If W is larger than X, and X is larger than Y, which is the smallest?",
+          "options": [
+            "W",
+            "X",
+            "Y",
+            "Cannot determine"
+          ],
+          "correct_answer": "Y",
+          "explanation": "Transitive property: W > X > Y, therefore Y is smallest.",
+          "time_estimate": 45
+        },
+        {
+          "id": "E_L04",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "Some phones are smartphones. All smartphones have apps. Therefore, some phones ___?",
+          "options": [
+            "Don't have apps",
+            "Have apps",
+            "Are landlines",
+            "Are broken"
+          ],
+          "correct_answer": "Have apps",
+          "explanation": "Some phones are smartphones, all smartphones have apps, so some phones have apps.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_L05",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If Kate reads, she learns. Kate didn't learn. Therefore, Kate ___?",
+          "options": [
+            "Read",
+            "Didn't read",
+            "Might have read",
+            "Forgot"
+          ],
+          "correct_answer": "Didn't read",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P.",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_L06",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "medium",
+          "question": "Three boxes: gold, silver, bronze. One has a prize. Gold label says 'Prize here'. Silver says 'Prize not here'. Bronze says 'Prize in gold'. All labels are wrong. Where is the prize?",
+          "options": [
+            "Gold",
+            "Silver",
+            "Bronze",
+            "Cannot determine"
+          ],
+          "correct_answer": "Gold",
+          "explanation": "If all labels wrong: Bronze label wrong so not in gold. Silver wrong so prize IS there, but that contradicts. Prize must be in gold (gold's label wrong).",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L07",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All prime numbers greater than 2 are odd. 17 is odd. Therefore, 17 is ___?",
+          "options": [
+            "Definitely prime",
+            "Possibly prime",
+            "Not prime",
+            "Even"
+          ],
+          "correct_answer": "Possibly prime",
+          "explanation": "Being odd doesn't prove primality (9, 15 are odd but not prime). This is affirming the consequent.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L08",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "Four cars parked in order. Black is left of white. Red is between black and white. Blue is rightmost. What's the order from left?",
+          "options": [
+            "Black, Red, White, Blue",
+            "Black, White, Red, Blue",
+            "Red, Black, White, Blue",
+            "Blue, Black, Red, White"
+          ],
+          "correct_answer": "Black, Red, White, Blue",
+          "explanation": "Black, then Red (between Black and White), then White, then Blue (rightmost).",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_L09",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If Ben is hungry, he eats. Ben is eating. Therefore, Ben was ___?",
+          "options": [
+            "Hungry",
+            "Not hungry",
+            "Full",
+            "Cannot determine"
+          ],
+          "correct_answer": "Cannot determine",
+          "explanation": "This is affirming the consequent fallacy. Ben could eat for pleasure, social reasons, etc.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L10",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All mammals are warm-blooded. This animal is warm-blooded. Therefore, this animal is ___?",
+          "options": [
+            "Definitely a mammal",
+            "Possibly a mammal",
+            "Not a mammal",
+            "Cold-blooded"
+          ],
+          "correct_answer": "Possibly a mammal",
+          "explanation": "Warm-blooded is necessary but not sufficient (birds are also warm-blooded).",
+          "time_estimate": 60
+        },
+        {
+          "id": "E_L11",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "A man says 'Brothers and sisters have I none, but this man's father is my father's son.' Who is 'this man'?",
+          "options": [
+            "The speaker",
+            "The speaker's son",
+            "The speaker's father",
+            "The speaker's brother"
+          ],
+          "correct_answer": "The speaker's son",
+          "explanation": "'My father's son' (with no brothers) = speaker himself. So 'this man's father' = speaker. This man = speaker's son.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L12",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "Seven people stand in line. Emma is 4th. Frank is 2 positions behind Gina. Gina is 2nd. Where is Frank?",
+          "options": [
+            "2nd",
+            "3rd",
+            "4th",
+            "5th"
+          ],
+          "correct_answer": "4th",
+          "explanation": "Gina is 2nd. Frank is 2 positions behind: 2+2=4th position.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L13",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "If all X are Y, and some Y are Z, then ___?",
+          "options": [
+            "All X are Z",
+            "Some X are Z",
+            "No X are Z",
+            "Cannot determine if any X are Z"
+          ],
+          "correct_answer": "Cannot determine if any X are Z",
+          "explanation": "We know all X are Y, and some Y are Z, but not if those particular Y include any X.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L14",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You have 10 stacks of 10 coins. One stack has all fake coins (9g each), others real (10g each). You have a scale. One weighing only. How to find the fake stack?",
+          "options": [
+            "Weigh 1 coin from each",
+            "Take 1 from stack 1, 2 from stack 2, etc., weigh all together",
+            "Weigh entire stacks",
+            "Impossible"
+          ],
+          "correct_answer": "Take 1 from stack 1, 2 from stack 2, etc., weigh all together",
+          "explanation": "Take 1,2,3...10 coins from stacks 1-10. If stack N is fake, total weight is N grams less than expected.",
+          "time_estimate": 75
+        },
+        {
+          "id": "E_L15",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "All pilots are licensed. Some licensed people are young. Therefore, ___?",
+          "options": [
+            "All pilots are young",
+            "Some pilots are young",
+            "No pilots are young",
+            "Cannot determine if any pilots are young"
+          ],
+          "correct_answer": "Cannot determine if any pilots are young",
+          "explanation": "We know some licensed people are young, but not if those young licensed people include pilots.",
+          "time_estimate": 75
+        }
+      ]
+    }
+  },
+  "difficulty_summary": {
+    "easy": 10,
+    "medium": 30,
+    "hard": 20
+  }
+}

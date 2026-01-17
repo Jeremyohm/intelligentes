@@ -1,0 +1,989 @@
+{
+  "test_id": "VERSION_A",
+  "version": "1.0",
+  "total_questions": 60,
+  "time_limit_minutes": 60,
+  "sections": {
+    "verbal_reasoning": {
+      "questions": [
+        {
+          "id": "A_V01",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "easy",
+          "question": "Which word is most similar in meaning to HAPPY?",
+          "options": [
+            "Joyful",
+            "Sad",
+            "Angry",
+            "Tired"
+          ],
+          "correct_answer": "Joyful",
+          "explanation": "Joyful means feeling or expressing great pleasure, which is synonymous with happy.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_V02",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "easy",
+          "question": "Which word is most opposite in meaning to DIFFICULT?",
+          "options": [
+            "Easy",
+            "Hard",
+            "Complex",
+            "Challenging"
+          ],
+          "correct_answer": "Easy",
+          "explanation": "Easy is the direct opposite of difficult.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_V03",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Hot is to Cold as Day is to ___?",
+          "options": [
+            "Night",
+            "Sun",
+            "Light",
+            "Morning"
+          ],
+          "correct_answer": "Night",
+          "explanation": "Hot and cold are opposites, just as day and night are opposites.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_V04",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to METICULOUS?",
+          "options": [
+            "Careful",
+            "Careless",
+            "Quick",
+            "Lazy"
+          ],
+          "correct_answer": "Careful",
+          "explanation": "Meticulous means showing great attention to detail, which aligns with being careful.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_V05",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Apple",
+            "Banana",
+            "Carrot",
+            "Orange"
+          ],
+          "correct_answer": "Carrot",
+          "explanation": "Carrot is a vegetable; the others are fruits.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_V06",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Book is to Read as Song is to ___?",
+          "options": [
+            "Listen",
+            "Write",
+            "Dance",
+            "Sing"
+          ],
+          "correct_answer": "Listen",
+          "explanation": "You read a book and you listen to a song.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_V07",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to EXPAND?",
+          "options": [
+            "Contract",
+            "Grow",
+            "Increase",
+            "Enlarge"
+          ],
+          "correct_answer": "Contract",
+          "explanation": "Contract means to become smaller, which is opposite to expand.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_V08",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to EPHEMERAL?",
+          "options": [
+            "Temporary",
+            "Permanent",
+            "Eternal",
+            "Solid"
+          ],
+          "correct_answer": "Temporary",
+          "explanation": "Ephemeral means lasting for a very short time, which is synonymous with temporary.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_V09",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Pen is to Writer as Brush is to ___?",
+          "options": [
+            "Teacher",
+            "Builder",
+            "Painter",
+            "Singer"
+          ],
+          "correct_answer": "Painter",
+          "explanation": "A writer uses a pen; a painter uses a brush.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_V10",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Line"
+          ],
+          "correct_answer": "Line",
+          "explanation": "Line is one-dimensional; the others are two-dimensional shapes.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_V11",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "hard",
+          "question": "Which word is most opposite in meaning to BENEVOLENT?",
+          "options": [
+            "Kind",
+            "Generous",
+            "Malicious",
+            "Helpful"
+          ],
+          "correct_answer": "Malicious",
+          "explanation": "Benevolent means kind and generous; malicious means intending harm.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_V12",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to ABUNDANT?",
+          "options": [
+            "Scarce",
+            "Rare",
+            "Plentiful",
+            "Limited"
+          ],
+          "correct_answer": "Plentiful",
+          "explanation": "Abundant means existing in large quantities, synonymous with plentiful.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_V13",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "easy",
+          "question": "Doctor is to Hospital as Teacher is to ___?",
+          "options": [
+            "Student",
+            "Book",
+            "School",
+            "Classroom"
+          ],
+          "correct_answer": "School",
+          "explanation": "A doctor works in a hospital; a teacher works in a school.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_V14",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Copper",
+            "Silver",
+            "Gold",
+            "Wood"
+          ],
+          "correct_answer": "Wood",
+          "explanation": "Wood is organic; the others are metals.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_V15",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to UBIQUITOUS?",
+          "options": [
+            "Rare",
+            "Hidden",
+            "Everywhere",
+            "Unique"
+          ],
+          "correct_answer": "Everywhere",
+          "explanation": "Ubiquitous means present everywhere at the same time.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "numerical_reasoning": {
+      "questions": [
+        {
+          "id": "A_N01",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next in the sequence: 2, 4, 6, 8, ___?",
+          "options": [
+            "9",
+            "11",
+            "10",
+            "12"
+          ],
+          "correct_answer": "10",
+          "explanation": "The sequence increases by 2 each time: 2+2=4, 4+2=6, 6+2=8, 8+2=10.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_N02",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "easy",
+          "question": "What is 15 + 27?",
+          "options": [
+            "40",
+            "44",
+            "42",
+            "46"
+          ],
+          "correct_answer": "42",
+          "explanation": "15 + 27 = 42.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_N03",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 3, 6, 12, 24, ___?",
+          "options": [
+            "36",
+            "40",
+            "48",
+            "30"
+          ],
+          "correct_answer": "48",
+          "explanation": "Each number is multiplied by 2: 3\u00d72=6, 6\u00d72=12, 12\u00d72=24, 24\u00d72=48.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N04",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 84 \u00f7 7?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correct_answer": "12",
+          "explanation": "84 \u00f7 7 = 12.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_N05",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If 5 apples cost $10, how much do 8 apples cost?",
+          "options": [
+            "$14",
+            "$15",
+            "$16",
+            "$18"
+          ],
+          "correct_answer": "$16",
+          "explanation": "Each apple costs $2 ($10\u00f75). 8 apples = 8\u00d7$2 = $16.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N06",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 1, 4, 9, 16, ___?",
+          "options": [
+            "20",
+            "21",
+            "24",
+            "25"
+          ],
+          "correct_answer": "25",
+          "explanation": "These are perfect squares: 1\u00b2, 2\u00b2, 3\u00b2, 4\u00b2, 5\u00b2 = 25.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N07",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 13 \u00d7 8?",
+          "options": [
+            "94",
+            "124",
+            "114",
+            "104"
+          ],
+          "correct_answer": "104",
+          "explanation": "13 \u00d7 8 = 104.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N08",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next: 2, 6, 12, 20, 30, ___?",
+          "options": [
+            "40",
+            "46",
+            "44",
+            "42"
+          ],
+          "correct_answer": "42",
+          "explanation": "Differences increase by 2: +4, +6, +8, +10, +12. 30+12=42.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N09",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A train travels 120 miles in 2 hours. At the same speed, how far does it travel in 5 hours?",
+          "options": [
+            "240 miles",
+            "400 miles",
+            "360 miles",
+            "300 miles"
+          ],
+          "correct_answer": "300 miles",
+          "explanation": "Speed = 120\u00f72 = 60 mph. Distance in 5 hours = 60\u00d75 = 300 miles.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_N10",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 156 - 89?",
+          "options": [
+            "65",
+            "71",
+            "69",
+            "67"
+          ],
+          "correct_answer": "67",
+          "explanation": "156 - 89 = 67.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N11",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 1, 1, 2, 3, 5, 8, ___?",
+          "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "correct_answer": "13",
+          "explanation": "Fibonacci sequence: each number is sum of previous two. 5+8=13.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_N12",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a shirt costs $25 and is on sale for 20% off, what is the sale price?",
+          "options": [
+            "$18",
+            "$23",
+            "$22",
+            "$20"
+          ],
+          "correct_answer": "$20",
+          "explanation": "20% of $25 = $5. Sale price = $25 - $5 = $20.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_N13",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 100, 96, 88, 76, 60, ___?",
+          "options": [
+            "40",
+            "42",
+            "44",
+            "46"
+          ],
+          "correct_answer": "40",
+          "explanation": "Differences decrease by 4: -4, -8, -12, -16, -20. 60-20=40.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_N14",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A rectangle has length 12 and width 5. What is its area?",
+          "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+          ],
+          "correct_answer": "60",
+          "explanation": "Area = length \u00d7 width = 12 \u00d7 5 = 60.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_N15",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 3, 9, 27, 81, ___?",
+          "options": [
+            "162",
+            "216",
+            "243",
+            "324"
+          ],
+          "correct_answer": "243",
+          "explanation": "Each number is multiplied by 3: 3\u00d73=9, 9\u00d73=27, 27\u00d73=81, 81\u00d73=243.",
+          "time_estimate": 90
+        }
+      ]
+    },
+    "spatial_reasoning": {
+      "questions": [
+        {
+          "id": "A_S01",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "easy",
+          "question": "Which shape completes the pattern: Circle, Square, Circle, Square, Circle, ___?",
+          "options": [
+            "Circle",
+            "Rectangle",
+            "Triangle",
+            "Square"
+          ],
+          "correct_answer": "Square",
+          "explanation": "The pattern alternates between circle and square.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_S02",
+          "type": "spatial",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "A triangle has 3 sides. How many sides does a hexagon have?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correct_answer": "6",
+          "explanation": "A hexagon has 6 sides by definition.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_S03",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "If you rotate the letter 'N' 180 degrees, what do you get?",
+          "options": [
+            "N",
+            "Z",
+            "M",
+            "W"
+          ],
+          "correct_answer": "N",
+          "explanation": "The letter N is symmetric when rotated 180 degrees.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_S04",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "Which shape is different: A circle with 1 dot inside, a circle with 1 dot inside, a circle with 2 dots inside, a circle with 1 dot inside?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "correct_answer": "Third",
+          "explanation": "The third circle has 2 dots; all others have 1 dot.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_S05",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a cube has 6 faces, how many edges does it have?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "correct_answer": "12",
+          "explanation": "A cube has 12 edges.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_S06",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "What comes next in the sequence: \u25cb \u25cf \u25cb \u25cf \u25cb ___?",
+          "options": [
+            "\u25cb",
+            "\u25d1",
+            "\u25d0",
+            "\u25cf"
+          ],
+          "correct_answer": "\u25cf",
+          "explanation": "The pattern alternates between empty circle (\u25cb) and filled circle (\u25cf).",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_S07",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you flip the letter 'b' horizontally, what do you get?",
+          "options": [
+            "d",
+            "p",
+            "q",
+            "b"
+          ],
+          "correct_answer": "d",
+          "explanation": "Flipping 'b' horizontally produces 'd'.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_S08",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "A pattern shows: \u25b3 \u25bd \u25b3 \u25bd \u25b3. If this pattern rotates each shape 90 degrees clockwise, what is the new pattern?",
+          "options": [
+            "\u25b7 \u25c1 \u25b7 \u25c1 \u25b7",
+            "\u25b3 \u25bd \u25b3 \u25bd \u25b3",
+            "\u25bd \u25b3 \u25bd \u25b3 \u25bd",
+            "\u25c1 \u25b7 \u25c1 \u25b7 \u25c1"
+          ],
+          "correct_answer": "\u25b7 \u25c1 \u25b7 \u25c1 \u25b7",
+          "explanation": "\u25b3 rotated 90\u00b0 clockwise becomes \u25b7, and \u25bd rotated 90\u00b0 clockwise becomes \u25c1.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_S09",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "How many corners (vertices) does a pyramid with a square base have?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correct_answer": "5",
+          "explanation": "4 corners at the base + 1 corner at the top = 5 vertices.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_S10",
+          "type": "spatial",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What shape has exactly 4 equal sides and 4 right angles?",
+          "options": [
+            "Rectangle",
+            "Square",
+            "Rhombus",
+            "Trapezoid"
+          ],
+          "correct_answer": "Square",
+          "explanation": "A square has 4 equal sides and 4 right angles.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_S11",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "If shapes follow pattern: Large circle, small square, large circle, small square, large circle, ___?",
+          "options": [
+            "Large circle",
+            "Small square",
+            "Large square",
+            "Small circle"
+          ],
+          "correct_answer": "Small square",
+          "explanation": "Pattern alternates: large circle, small square.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_S12",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you have a solid cube and paint all 6 faces red, then cut the cube into 27 equal smaller cubes (3x3x3), how many of the small cubes will have exactly 2 red faces?",
+          "options": [
+            "6",
+            "8",
+            "12",
+            "24"
+          ],
+          "correct_answer": "12",
+          "explanation": "The 12 cubes along the edges (but not at corners) have exactly 2 painted faces.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_S13",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A hexagon is divided into 6 equal triangles from its center. How many triangles are there?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correct_answer": "6",
+          "explanation": "6 equal triangles are formed when connecting the center to each vertex.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_S14",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "If you rotate the number '6' 180 degrees, what number do you get?",
+          "options": [
+            "6",
+            "9",
+            "8",
+            "0"
+          ],
+          "correct_answer": "9",
+          "explanation": "Rotating '6' 180 degrees produces '9'.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_S15",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Pattern: \u25a0\u25a1\u25a0\u25a1\u25a0. What comes next if each filled square becomes empty and each empty becomes filled?",
+          "options": [
+            "\u25a0",
+            "\u25a1",
+            "\u25a0\u25a1",
+            "\u25a1\u25a0"
+          ],
+          "correct_answer": "\u25a1",
+          "explanation": "The next element in the pattern is \u25a0, but after transformation (filled\u2192empty) it becomes \u25a1.",
+          "time_estimate": 90
+        }
+      ]
+    },
+    "logical_reasoning": {
+      "questions": [
+        {
+          "id": "A_L01",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "easy",
+          "question": "All dogs are animals. Rex is a dog. Therefore, Rex is a ___?",
+          "options": [
+            "Cat",
+            "Animal",
+            "Plant",
+            "Human"
+          ],
+          "correct_answer": "Animal",
+          "explanation": "Syllogism: All dogs are animals, Rex is a dog, therefore Rex is an animal.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_L02",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "easy",
+          "question": "If it rains, the ground gets wet. It rained. Therefore, the ground is ___?",
+          "options": [
+            "Dry",
+            "Wet",
+            "Hot",
+            "Cold"
+          ],
+          "correct_answer": "Wet",
+          "explanation": "Modus ponens: If P then Q. P is true. Therefore Q is true.",
+          "time_estimate": 30
+        },
+        {
+          "id": "A_L03",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All cats have whiskers. Some pets are cats. Therefore, some pets have ___?",
+          "options": [
+            "Scales",
+            "Whiskers",
+            "Wings",
+            "Fins"
+          ],
+          "correct_answer": "Whiskers",
+          "explanation": "Logical deduction: some pets are cats, all cats have whiskers, so some pets have whiskers.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L04",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "If A is taller than B, and B is taller than C, who is the shortest?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "Cannot determine"
+          ],
+          "correct_answer": "C",
+          "explanation": "Transitive property: A > B > C, therefore C is shortest.",
+          "time_estimate": 45
+        },
+        {
+          "id": "A_L05",
+          "type": "logical",
+          "subtype": "contradiction",
+          "difficulty": "medium",
+          "question": "Statement: 'This statement is false.' What is this an example of?",
+          "options": [
+            "Truth",
+            "Paradox",
+            "Fact",
+            "Opinion"
+          ],
+          "correct_answer": "Paradox",
+          "explanation": "This is the liar's paradox - if true then false, if false then true.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L06",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If John studies, he passes. John did not pass. Therefore, John ___?",
+          "options": [
+            "Studied",
+            "Did not study",
+            "Might have studied",
+            "Taught"
+          ],
+          "correct_answer": "Did not study",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L07",
+          "type": "logical",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "All metals conduct electricity. Copper conducts electricity. Therefore, copper is ___?",
+          "options": [
+            "Not a metal",
+            "A metal",
+            "An insulator",
+            "Cannot determine"
+          ],
+          "correct_answer": "Cannot determine",
+          "explanation": "This is the fallacy of affirming the consequent. Just because copper conducts electricity doesn't prove it's a metal (though it is).",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L08",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "If all A are B, and all B are C, then all A are ___?",
+          "options": [
+            "D",
+            "C",
+            "Not C",
+            "Sometimes C"
+          ],
+          "correct_answer": "C",
+          "explanation": "Transitive property of logical sets: A\u2282B and B\u2282C means A\u2282C.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_L09",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "Three switches outside a room control three lights inside. You can flip switches but can only enter the room once. How do you determine which switch controls which light?",
+          "options": [
+            "Turn on switch 1, wait 5 minutes, turn off, turn on switch 2, enter",
+            "Turn all on",
+            "Turn on switch 1 and 2",
+            "Cannot determine"
+          ],
+          "correct_answer": "Turn on switch 1, wait 5 minutes, turn off, turn on switch 2, enter",
+          "explanation": "Switch 1 light will be off but warm. Switch 2 light will be on. Switch 3 light will be off and cold.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_L10",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "In a race, you pass the person in 2nd place. What place are you in now?",
+          "options": [
+            "1st",
+            "2nd",
+            "3rd",
+            "4th"
+          ],
+          "correct_answer": "2nd",
+          "explanation": "If you pass the person in 2nd place, you take their position (2nd).",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L11",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "hard",
+          "question": "If it's sunny, Mary goes to the beach. Mary did not go to the beach. Therefore, it was ___?",
+          "options": [
+            "Sunny",
+            "Not sunny",
+            "Rainy",
+            "Cannot determine"
+          ],
+          "correct_answer": "Not sunny",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P (not sunny).",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_L12",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "Some teachers are doctors. All doctors are educated. Therefore, some teachers are ___?",
+          "options": [
+            "Uneducated",
+            "Educated",
+            "Students",
+            "Lawyers"
+          ],
+          "correct_answer": "Educated",
+          "explanation": "Some teachers are doctors, all doctors are educated, so some teachers are educated.",
+          "time_estimate": 60
+        },
+        {
+          "id": "A_L13",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You have 12 balls, one is heavier. You have a balance scale and can use it twice. Can you identify the heavy ball?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if lucky",
+            "Need 3 weighings"
+          ],
+          "correct_answer": "No",
+          "explanation": "You need 3 weighings minimum to identify 1 different ball among 12.",
+          "time_estimate": 75
+        },
+        {
+          "id": "A_L14",
+          "type": "logical",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "All roses are flowers. Some flowers fade quickly. Therefore, ___?",
+          "options": [
+            "All roses fade quickly",
+            "Some roses fade quickly",
+            "No roses fade quickly",
+            "Cannot determine about roses"
+          ],
+          "correct_answer": "Cannot determine about roses",
+          "explanation": "We only know some flowers fade quickly, but not whether those flowers include roses.",
+          "time_estimate": 90
+        },
+        {
+          "id": "A_L15",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "Five people (A, B, C, D, E) sit in a row. A sits next to B. C doesn't sit next to A. D sits at an end. Where can E sit?",
+          "options": [
+            "Only at the other end",
+            "Next to A or B",
+            "Anywhere except ends",
+            "Multiple positions possible"
+          ],
+          "correct_answer": "Multiple positions possible",
+          "explanation": "E can sit in multiple valid positions depending on the arrangement of others.",
+          "time_estimate": 75
+        }
+      ]
+    }
+  },
+  "difficulty_summary": {
+    "easy": 10,
+    "medium": 30,
+    "hard": 20
+  }
+}

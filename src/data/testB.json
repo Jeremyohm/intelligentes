@@ -1,0 +1,989 @@
+{
+  "test_id": "VERSION_B",
+  "version": "1.0",
+  "total_questions": 60,
+  "time_limit_minutes": 60,
+  "sections": {
+    "verbal_reasoning": {
+      "questions": [
+        {
+          "id": "B_V01",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "easy",
+          "question": "Which word is most opposite in meaning to BRIGHT?",
+          "options": [
+            "Dark",
+            "Light",
+            "Shiny",
+            "Clear"
+          ],
+          "correct_answer": "Dark",
+          "explanation": "Dark is the direct opposite of bright.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_V02",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "easy",
+          "question": "Which word is most similar in meaning to FAST?",
+          "options": [
+            "Quick",
+            "Slow",
+            "Late",
+            "Heavy"
+          ],
+          "correct_answer": "Quick",
+          "explanation": "Quick means moving at high speed, synonymous with fast.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_V03",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "easy",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Piano",
+            "Guitar",
+            "Violin",
+            "Painting"
+          ],
+          "correct_answer": "Painting",
+          "explanation": "Painting is not a musical instrument; the others are.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_V04",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Chef is to Kitchen as Scientist is to ___?",
+          "options": [
+            "Laboratory",
+            "School",
+            "Library",
+            "Hospital"
+          ],
+          "correct_answer": "Laboratory",
+          "explanation": "A chef works in a kitchen; a scientist works in a laboratory.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V05",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to COURAGEOUS?",
+          "options": [
+            "Brave",
+            "Fearful",
+            "Timid",
+            "Weak"
+          ],
+          "correct_answer": "Brave",
+          "explanation": "Courageous means having courage, which is synonymous with brave.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V06",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to ASCEND?",
+          "options": [
+            "Descend",
+            "Climb",
+            "Rise",
+            "Float"
+          ],
+          "correct_answer": "Descend",
+          "explanation": "Ascend means to go up; descend means to go down.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V07",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Wheel is to Car as Wing is to ___?",
+          "options": [
+            "Bird",
+            "Sky",
+            "Feather",
+            "Nest"
+          ],
+          "correct_answer": "Bird",
+          "explanation": "A wheel is part of a car; a wing is part of a bird.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V08",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "medium",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Moon"
+          ],
+          "correct_answer": "Moon",
+          "explanation": "Moon is a satellite; the others are planets.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V09",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "medium",
+          "question": "Which word is most similar in meaning to ANCIENT?",
+          "options": [
+            "Old",
+            "Modern",
+            "New",
+            "Recent"
+          ],
+          "correct_answer": "Old",
+          "explanation": "Ancient means very old, from long ago.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_V10",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "medium",
+          "question": "Which word is most opposite in meaning to GENEROUS?",
+          "options": [
+            "Stingy",
+            "Kind",
+            "Giving",
+            "Wealthy"
+          ],
+          "correct_answer": "Stingy",
+          "explanation": "Generous means willing to give; stingy means unwilling to give.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V11",
+          "type": "verbal",
+          "subtype": "analogy",
+          "difficulty": "medium",
+          "question": "Lens is to Camera as Window is to ___?",
+          "options": [
+            "House",
+            "Door",
+            "Glass",
+            "Wall"
+          ],
+          "correct_answer": "House",
+          "explanation": "A lens is a component of a camera; a window is a component of a house.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_V12",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to ELOQUENT?",
+          "options": [
+            "Articulate",
+            "Silent",
+            "Confused",
+            "Brief"
+          ],
+          "correct_answer": "Articulate",
+          "explanation": "Eloquent means fluent and persuasive in speaking, similar to articulate.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_V13",
+          "type": "verbal",
+          "subtype": "antonym",
+          "difficulty": "hard",
+          "question": "Which word is most opposite in meaning to FRIVOLOUS?",
+          "options": [
+            "Serious",
+            "Silly",
+            "Playful",
+            "Light"
+          ],
+          "correct_answer": "Serious",
+          "explanation": "Frivolous means not serious or sensible; serious is the opposite.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_V14",
+          "type": "verbal",
+          "subtype": "classification",
+          "difficulty": "hard",
+          "question": "Which word does NOT belong with the others?",
+          "options": [
+            "Novel",
+            "Poem",
+            "Essay",
+            "Sculpture"
+          ],
+          "correct_answer": "Sculpture",
+          "explanation": "Sculpture is visual art; the others are forms of written literature.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_V15",
+          "type": "verbal",
+          "subtype": "synonym",
+          "difficulty": "hard",
+          "question": "Which word is most similar in meaning to TRIVIAL?",
+          "options": [
+            "Insignificant",
+            "Important",
+            "Massive",
+            "Critical"
+          ],
+          "correct_answer": "Insignificant",
+          "explanation": "Trivial means of little importance, synonymous with insignificant.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "numerical_reasoning": {
+      "questions": [
+        {
+          "id": "B_N01",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "easy",
+          "question": "What number comes next in the sequence: 5, 10, 15, 20, ___?",
+          "options": [
+            "25",
+            "22",
+            "30",
+            "35"
+          ],
+          "correct_answer": "25",
+          "explanation": "The sequence increases by 5 each time: 5+5=10, 10+5=15, 15+5=20, 20+5=25.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_N02",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "easy",
+          "question": "What is 48 - 19?",
+          "options": [
+            "29",
+            "31",
+            "27",
+            "33"
+          ],
+          "correct_answer": "29",
+          "explanation": "48 - 19 = 29.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_N03",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "If 3 pencils cost $6, how much does 1 pencil cost?",
+          "options": [
+            "$2",
+            "$3",
+            "$1",
+            "$4"
+          ],
+          "correct_answer": "$2",
+          "explanation": "$6 divided by 3 pencils = $2 per pencil.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_N04",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 80, 40, 20, 10, ___?",
+          "options": [
+            "5",
+            "8",
+            "4",
+            "2"
+          ],
+          "correct_answer": "5",
+          "explanation": "Each number is divided by 2: 80\u00f72=40, 40\u00f72=20, 20\u00f72=10, 10\u00f72=5.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_N05",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 17 \u00d7 6?",
+          "options": [
+            "96",
+            "108",
+            "112",
+            "102"
+          ],
+          "correct_answer": "102",
+          "explanation": "17 \u00d7 6 = 102.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_N06",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "A book has 240 pages. If you read 15 pages per day, how many days will it take to finish?",
+          "options": [
+            "14",
+            "15",
+            "18",
+            "16"
+          ],
+          "correct_answer": "16",
+          "explanation": "240 pages \u00f7 15 pages per day = 16 days.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_N07",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 2, 5, 11, 23, ___?",
+          "options": [
+            "35",
+            "41",
+            "53",
+            "47"
+          ],
+          "correct_answer": "47",
+          "explanation": "Pattern: \u00d72+1. 2\u00d72+1=5, 5\u00d72+1=11, 11\u00d72+1=23, 23\u00d72+1=47.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_N08",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 144 \u00f7 12?",
+          "options": [
+            "10",
+            "11",
+            "13",
+            "12"
+          ],
+          "correct_answer": "12",
+          "explanation": "144 \u00f7 12 = 12.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_N09",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a rectangle has a perimeter of 30 and one side is 5, what is the other side?",
+          "options": [
+            "8",
+            "12",
+            "15",
+            "10"
+          ],
+          "correct_answer": "10",
+          "explanation": "Perimeter = 2(length + width). 30 = 2(5 + width), so 15 = 5 + width, width = 10.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_N10",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "What number comes next: 7, 14, 21, 28, ___?",
+          "options": [
+            "32",
+            "38",
+            "42",
+            "35"
+          ],
+          "correct_answer": "35",
+          "explanation": "Multiples of 7: 7\u00d71=7, 7\u00d72=14, 7\u00d73=21, 7\u00d74=28, 7\u00d75=35.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_N11",
+          "type": "numerical",
+          "subtype": "arithmetic",
+          "difficulty": "medium",
+          "question": "What is 250 + 175?",
+          "options": [
+            "415",
+            "435",
+            "445",
+            "425"
+          ],
+          "correct_answer": "425",
+          "explanation": "250 + 175 = 425.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_N12",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A car travels at 45 mph. How many miles does it travel in 3.5 hours?",
+          "options": [
+            "147.5",
+            "152.5",
+            "162.5",
+            "157.5"
+          ],
+          "correct_answer": "157.5",
+          "explanation": "Distance = speed \u00d7 time = 45 \u00d7 3.5 = 157.5 miles.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_N13",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 1, 4, 10, 22, 46, ___?",
+          "options": [
+            "82",
+            "88",
+            "94",
+            "100"
+          ],
+          "correct_answer": "94",
+          "explanation": "Pattern: \u00d72+2. 1\u00d72+2=4, 4\u00d72+2=10, 10\u00d72+2=22, 22\u00d72+2=46, 46\u00d72+2=94.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_N14",
+          "type": "numerical",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "If 40% of a number is 80, what is the number?",
+          "options": [
+            "160",
+            "180",
+            "200",
+            "220"
+          ],
+          "correct_answer": "200",
+          "explanation": "0.40 \u00d7 number = 80, so number = 80 \u00f7 0.40 = 200.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_N15",
+          "type": "numerical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "What number comes next: 5, 10, 20, 40, 80, ___?",
+          "options": [
+            "120",
+            "140",
+            "160",
+            "180"
+          ],
+          "correct_answer": "160",
+          "explanation": "Each number is multiplied by 2: 5\u00d72=10, 10\u00d72=20, 20\u00d72=40, 40\u00d72=80, 80\u00d72=160.",
+          "time_estimate": 60
+        }
+      ]
+    },
+    "spatial_reasoning": {
+      "questions": [
+        {
+          "id": "B_S01",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "easy",
+          "question": "Which shape completes the pattern: Star, Moon, Star, Moon, Star, ___?",
+          "options": [
+            "Star",
+            "Sun",
+            "Moon",
+            "Circle"
+          ],
+          "correct_answer": "Moon",
+          "explanation": "The pattern alternates between star and moon.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_S02",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "easy",
+          "question": "How many sides does a pentagon have?",
+          "options": [
+            "4",
+            "6",
+            "5",
+            "7"
+          ],
+          "correct_answer": "5",
+          "explanation": "A pentagon has 5 sides by definition.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_S03",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you flip the letter 'p' vertically (upside down), what do you get?",
+          "options": [
+            "q",
+            "d",
+            "b",
+            "p"
+          ],
+          "correct_answer": "b",
+          "explanation": "Flipping 'p' vertically produces 'b'.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_S04",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "What comes next in the sequence: \u25b2 \u25bc \u25b2 \u25bc \u25b2 ___?",
+          "options": [
+            "\u25b2",
+            "\u25c4",
+            "\u25bc",
+            "\u25ba"
+          ],
+          "correct_answer": "\u25bc",
+          "explanation": "The pattern alternates between up triangle (\u25b2) and down triangle (\u25bc).",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_S05",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "If a square has a perimeter of 20, what is the length of one side?",
+          "options": [
+            "4",
+            "10",
+            "6",
+            "5"
+          ],
+          "correct_answer": "5",
+          "explanation": "Square has 4 equal sides. Perimeter = 4 \u00d7 side, so 20 = 4 \u00d7 side, side = 5.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_S06",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "medium",
+          "question": "If you rotate the number '8' 180 degrees, what do you get?",
+          "options": [
+            "3",
+            "6",
+            "8",
+            "9"
+          ],
+          "correct_answer": "8",
+          "explanation": "The number 8 is symmetric and looks the same when rotated 180 degrees.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_S07",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "medium",
+          "question": "Which shape is different: A square with a dot in the center, a square with a dot in the center, a square with a dot in the upper left, a square with a dot in the center?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "correct_answer": "Third",
+          "explanation": "The third square has the dot in a different position (upper left vs center).",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_S08",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "medium",
+          "question": "How many faces does a triangular prism have?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correct_answer": "5",
+          "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces = 5 total.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S09",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "medium",
+          "question": "If you flip the letter 'M' horizontally, what do you get?",
+          "options": [
+            "W",
+            "N",
+            "E",
+            "M"
+          ],
+          "correct_answer": "M",
+          "explanation": "The letter M is horizontally symmetric and remains M when flipped.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_S10",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "Pattern: \u25a0 \u25a0 \u25a1 \u25a0 \u25a0 \u25a1. What comes next?",
+          "options": [
+            "\u25a0",
+            "\u25a1",
+            "\u25a0\u25a0",
+            "\u25a1\u25a1"
+          ],
+          "correct_answer": "\u25a0",
+          "explanation": "Pattern repeats: two filled (\u25a0\u25a0), one empty (\u25a1), so next is filled (\u25a0).",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S11",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "A rectangular box measures 4 \u00d7 3 \u00d7 2. How many unit cubes fit inside?",
+          "options": [
+            "12",
+            "18",
+            "24",
+            "30"
+          ],
+          "correct_answer": "24",
+          "explanation": "Volume = length \u00d7 width \u00d7 height = 4 \u00d7 3 \u00d7 2 = 24 unit cubes.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S12",
+          "type": "spatial",
+          "subtype": "rotation",
+          "difficulty": "hard",
+          "question": "If you rotate the letter 'Z' 90 degrees clockwise, what shape does it most resemble?",
+          "options": [
+            "N",
+            "S",
+            "L rotated",
+            "No common letter"
+          ],
+          "correct_answer": "No common letter",
+          "explanation": "Z rotated 90\u00b0 clockwise doesn't match any standard letter shape.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S13",
+          "type": "spatial",
+          "subtype": "pattern",
+          "difficulty": "hard",
+          "question": "If a pattern shows: Small circle, medium square, large circle, small circle, medium square, ___?",
+          "options": [
+            "Small circle",
+            "Small square",
+            "Medium square",
+            "Large circle"
+          ],
+          "correct_answer": "Large circle",
+          "explanation": "Pattern repeats every 3 items: small circle, medium square, large circle.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S14",
+          "type": "spatial",
+          "subtype": "logic",
+          "difficulty": "hard",
+          "question": "How many vertices (corners) does an octahedron have?",
+          "options": [
+            "4",
+            "12",
+            "8",
+            "6"
+          ],
+          "correct_answer": "6",
+          "explanation": "An octahedron (8 triangular faces) has 6 vertices.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_S15",
+          "type": "spatial",
+          "subtype": "transformation",
+          "difficulty": "hard",
+          "question": "If a 2\u00d72 grid has 4 cells and you draw diagonal lines in each cell from top-left to bottom-right, how many triangles are created in total?",
+          "options": [
+            "4",
+            "8",
+            "12",
+            "16"
+          ],
+          "correct_answer": "8",
+          "explanation": "Each cell is divided into 2 triangles. 4 cells \u00d7 2 = 8 triangles.",
+          "time_estimate": 75
+        }
+      ]
+    },
+    "logical_reasoning": {
+      "questions": [
+        {
+          "id": "B_L01",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "easy",
+          "question": "All birds have feathers. A robin is a bird. Therefore, a robin has ___?",
+          "options": [
+            "Scales",
+            "Feathers",
+            "Fur",
+            "Skin"
+          ],
+          "correct_answer": "Feathers",
+          "explanation": "Syllogism: All birds have feathers, robin is a bird, therefore robin has feathers.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_L02",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "easy",
+          "question": "If you exercise, you get stronger. You exercised. Therefore, you got ___?",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Tired",
+            "Sick"
+          ],
+          "correct_answer": "Stronger",
+          "explanation": "Modus ponens: If P then Q. P is true. Therefore Q is true.",
+          "time_estimate": 30
+        },
+        {
+          "id": "B_L03",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "If X is heavier than Y, and Y is heavier than Z, which is the lightest?",
+          "options": [
+            "X",
+            "Y",
+            "Z",
+            "Cannot determine"
+          ],
+          "correct_answer": "Z",
+          "explanation": "Transitive property: X > Y > Z, therefore Z is lightest.",
+          "time_estimate": 45
+        },
+        {
+          "id": "B_L04",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "Some students are athletes. All athletes train daily. Therefore, some students ___?",
+          "options": [
+            "Don't train",
+            "Train daily",
+            "Are lazy",
+            "Are sick"
+          ],
+          "correct_answer": "Train daily",
+          "explanation": "Some students are athletes, all athletes train daily, so some students train daily.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_L05",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If Sarah exercises, she feels energetic. Sarah doesn't feel energetic. Therefore, Sarah ___?",
+          "options": [
+            "Exercised",
+            "Didn't exercise",
+            "Might have exercised",
+            "Is tired"
+          ],
+          "correct_answer": "Didn't exercise",
+          "explanation": "Modus tollens: If P then Q. Not Q. Therefore not P.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_L06",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You have two coins that total 30 cents. One is not a nickel. What are the two coins?",
+          "options": [
+            "Two dimes and one nickel",
+            "Quarter and nickel",
+            "Three dimes",
+            "Cannot determine"
+          ],
+          "correct_answer": "Quarter and nickel",
+          "explanation": "One coin is not a nickel (the quarter), but the other one IS a nickel. 25\u00a2 + 5\u00a2 = 30\u00a2.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L07",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "No reptiles have fur. Snakes don't have fur. Therefore, snakes are ___?",
+          "options": [
+            "Definitely reptiles",
+            "Definitely not reptiles",
+            "Possibly reptiles",
+            "Mammals"
+          ],
+          "correct_answer": "Possibly reptiles",
+          "explanation": "This is affirming the consequent fallacy. Just because snakes lack fur doesn't prove they're reptiles (though they are).",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L08",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "medium",
+          "question": "In a line, Amy is ahead of Bob. Bob is ahead of Carl. Who is in the middle?",
+          "options": [
+            "Amy",
+            "Bob",
+            "Carl",
+            "Cannot determine"
+          ],
+          "correct_answer": "Bob",
+          "explanation": "Order: Amy, Bob, Carl. Bob is in the middle position.",
+          "time_estimate": 60
+        },
+        {
+          "id": "B_L09",
+          "type": "logical",
+          "subtype": "if_then",
+          "difficulty": "medium",
+          "question": "If it's cold, Maria wears a jacket. Maria is wearing a jacket. Therefore, it's ___?",
+          "options": [
+            "Cold",
+            "Not cold",
+            "Warm",
+            "Cannot determine"
+          ],
+          "correct_answer": "Cannot determine",
+          "explanation": "This is affirming the consequent fallacy. Maria could wear a jacket for other reasons (fashion, wind, etc.).",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L10",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "medium",
+          "question": "All triangles have three sides. This shape has three sides. Therefore, this shape is ___?",
+          "options": [
+            "Definitely a triangle",
+            "Possibly a triangle",
+            "Not a triangle",
+            "A square"
+          ],
+          "correct_answer": "Possibly a triangle",
+          "explanation": "Having three sides is necessary but not sufficient to be a triangle (needs to be closed figure).",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L11",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "A father and son are in a car accident. The father dies. The boy is rushed to surgery. The surgeon says 'I can't operate on him, he's my son!' How is this possible?",
+          "options": [
+            "The surgeon is lying",
+            "The surgeon is the mother",
+            "Time travel",
+            "Adoption"
+          ],
+          "correct_answer": "The surgeon is the mother",
+          "explanation": "The surgeon is the boy's mother. This tests assumptions about gender roles.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L12",
+          "type": "logical",
+          "subtype": "sequence",
+          "difficulty": "hard",
+          "question": "Four people (A, B, C, D) finish a race. A finished before B. C finished after B but before D. Who finished third?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "correct_answer": "C",
+          "explanation": "Order: A, B, C, D. C is in third position.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L13",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "If all X are Y, and no Y are Z, then no X are ___?",
+          "options": [
+            "Y",
+            "Z",
+            "X",
+            "Cannot determine"
+          ],
+          "correct_answer": "Z",
+          "explanation": "Transitive property: All X are Y, and no Y are Z, therefore no X are Z.",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L14",
+          "type": "logical",
+          "subtype": "puzzle",
+          "difficulty": "hard",
+          "question": "You're in a room with two doors. One leads to freedom, one to danger. Two guards: one always lies, one always tells truth. You can ask ONE question to ONE guard. What do you ask?",
+          "options": [
+            "Which door is safe?",
+            "Are you the liar?",
+            "What would the other guard say is the safe door?",
+            "Is this the exit?"
+          ],
+          "correct_answer": "What would the other guard say is the safe door?",
+          "explanation": "Then choose the opposite door. Both guards will point to the dangerous door (liar lies about truth-teller's answer, truth-teller truthfully reports liar's answer).",
+          "time_estimate": 75
+        },
+        {
+          "id": "B_L15",
+          "type": "logical",
+          "subtype": "deduction",
+          "difficulty": "hard",
+          "question": "All engineers are educated. Some educated people are wealthy. Therefore, ___?",
+          "options": [
+            "All engineers are wealthy",
+            "Some engineers are wealthy",
+            "No engineers are wealthy",
+            "Cannot determine if any engineers are wealthy"
+          ],
+          "correct_answer": "Cannot determine if any engineers are wealthy",
+          "explanation": "We know some educated people are wealthy, but we don't know if those wealthy educated people include any engineers.",
+          "time_estimate": 75
+        }
+      ]
+    }
+  },
+  "difficulty_summary": {
+    "easy": 10,
+    "medium": 30,
+    "hard": 20
+  }
+}
